@@ -1,2 +1,2 @@
-# TGC
-Multi-level control touch LED module
+# BLT
+Device labeling exercise
